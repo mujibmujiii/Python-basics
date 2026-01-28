@@ -1,0 +1,8 @@
+# sum_two_numbers.py
+# This program calculates the sum of two numbers
+
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+
+sum_result = num1 + num2
+print("Sum:", sum_result)
